@@ -1,6 +1,4 @@
-# graphics
-
-airplane : 지형 만들기 및 작품 과제 코드입니다
+# airplane : 지형 만들기 및 작품 과제 코드입니다
 
 let cols, rows;
 let scl = 20; // 지형의 스케일
@@ -63,3 +61,5 @@ function draw() {
   pointLight(250, 250, 250, 0, -50, 50); // 특정 위치에서 오는 조명
 }
 
+
+#--
