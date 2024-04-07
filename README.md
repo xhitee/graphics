@@ -61,3 +61,8 @@ function draw() {
   pointLight(250, 250, 250, 0, -50, 50); // 특정 위치에서 오는 조명
 }
 
+
+### 이미지 캡쳐
+
+<img width="591" alt="스크린샷 2024-04-07 오후 3 27 42" src="https://github.com/xhitee/graphics/assets/138651672/02fc55a5-075b-4b59-adf2-e68f83477236">
+
