@@ -285,6 +285,9 @@ vscode에서 소스를 작성했으며 브라우저는 chrome을 사용하였다
 코드는 dev 파일입니다다
 
 # 테니스 게임의 변형
+ 
+ ![whitetenis](https://github.com/xhitee/graphics/assets/138651672/ce9f1ea8-0a5b-47b2-802b-7976c0b76532)
+
+ 코드는 tennis 파일을 참고하시면 됩니다 
  스코어를 화면에 표시해 현재 게임 진행 상황을 알 수 있게 했습니다
  아이템 기능을 추가해 공으로 아이템을 먹으면 패들이 커지는 효과를 추가했습니다
- ![whitetenis](https://github.com/xhitee/graphics/assets/138651672/ce9f1ea8-0a5b-47b2-802b-7976c0b76532)
